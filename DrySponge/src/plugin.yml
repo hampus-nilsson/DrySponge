@@ -1,0 +1,5 @@
+name: DrySponge
+author: Artline__
+version: 1.0
+description: Placing a sponge in the nether will cause it to dry.
+main: com.artlinedev.DrySponge.Main
