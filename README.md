@@ -1,6 +1,6 @@
 # DrySponge
 
-**As of Minecraft 1.15 this is now in Vanilla.**
+##NOTE: As of Minecraft 1.15 this is now in Vanilla.
 
 A Bukkit/Spigot server plugin for Minecraft.
 
